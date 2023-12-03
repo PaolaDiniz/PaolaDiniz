@@ -1,0 +1,5 @@
+- 👋 Olá, meu nome é @PaolaDiniz
+- 👀 Estou interessada em desenvolver projetos de programação na área de Engenharia Mecânica.
+- 🌱 Atualmente estou apredendo a linguagem de programação Python.
+- 💞️ Tenho vontade de realizar projetos voltados para a área da aeronáutica.
+- 📫 Pode me encontrar através do meu perfil no [Linkedin](https://www.linkedin.com/in/paoladiniz/).
